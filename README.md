@@ -1,0 +1,1 @@
+# Newaimbot.lua
